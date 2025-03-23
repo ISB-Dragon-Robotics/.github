@@ -6,6 +6,7 @@ Repositories/Projects:
 - ISB Robotics Knowledge Base (See website/repo for contributors)
 - Mikubot (Leon Zhu, 86832A High Stakes Code)
 - Team2 (Sofia Poulsen & Taylor Kim, 86832B Spin Up Code)
+- Team3TP (Asher Sevy & Sofia Poulsen, 86832C Tipping Point Code)
 <!--
 
 **Here are some ideas to get you started:**
